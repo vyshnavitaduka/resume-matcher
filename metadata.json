@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Matcher",
+  "description": "Automated HR tool to match resumes against job descriptions using Gemini AI.",
+  "requestFramePermissions": []
+}
