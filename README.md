@@ -1,20 +1,37 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Project Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# AI Resume Matcher
 
-This contains everything you need to run your app locally.
+## 📌 Description
+AI Resume Matcher is a web application that analyzes resumes and job descriptions to calculate a matching score and suggest improvements. It helps candidates optimize their resumes and assists recruiters in shortlisting candidates efficiently.
 
-View your app in AI Studio: https://ai.studio/apps/0dbd11e2-637a-4598-ad31-3f808f42acce
+---
 
-## Run Locally
+## 🚀 Features
+- Resume analysis using AI
+- Job description matching
+- Match score calculation
+- Suggestions for resume improvement
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
+- TypeScript
+- Vite
+- Node.js
+- Gemini API (AI processing)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ⚙️ Setup & Run Locally
+
+### Prerequisites
+- Node.js installed
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vyshnavitaduka/resume-matcher.git
+   cd resume-matcher
